@@ -1,0 +1,85 @@
+.App {
+  text-align: center;
+}
+.homePage{
+}
+.homeTitel{
+  font-size: 80px;
+  color: red;
+}
+.InputStyle{
+  margin: 10px;
+  text-align: center;
+  width: 250px;
+  height: 50px;
+  border: solid 1px red;
+  border-radius: 20px;
+  font-size: 20px;
+}
+hr{
+  width: 600px;
+}
+.butLink{
+  width: 130px;
+  height: 20px;
+  border-radius: 5px;
+}
+
+.butLinkSend{
+  text-align: center;
+  width: 140px;
+  height: 50px;
+  border-radius: 20px;
+  font-size: 20px;
+  background-color: blue;
+  color: white;
+}
+.ActionsClient{
+  border-radius: 10px;
+  font-size: 35px;
+  width: 160px;
+  height: 100px;
+  background-color: rgb(75, 75, 247);
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  margin: 20px;
+}
+.ActionsClient:hover{
+  font-size: 40px;
+  color: red;
+}
+#ClienTitel{
+  font-size: 80px;
+  color: rgb(54, 54, 167)
+}
+#ActionPay{
+  display: none;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+  height: 135px;
+  border: solid 1px black;
+}
+.adminac{
+  padding: 1%;
+  margin: 10px;
+  border: 1px solid red;
+  width: 550px;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.remove{
+  margin: 1px;
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+}
+.ctionsAdmin{
+  margin: 1px;
+  background-color: blue;
+  color: white;
+  border-radius:15px;
+  font-size: 20px;
+}
